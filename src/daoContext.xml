@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<daoContext>
+    <dao id="sonDao" class="SonDaoImpl"/>
+    <dao id="personDao" class="PersonDaoImpl"/>
+</daoContext>
